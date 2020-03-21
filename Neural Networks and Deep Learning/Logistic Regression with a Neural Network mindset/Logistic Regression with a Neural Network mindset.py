@@ -346,7 +346,7 @@ if __name__ == '__main__':
     plt.show()
     # Test with your own image
     ## START CODE HERE ## (PUT YOUR IMAGE NAME)
-    my_image = "my_image.jpg"  # change this to the name of your image file
+    my_image = "my_image_1.jpg"  # change this to the name of your image file
     ## END CODE HERE ##
 
     # We preprocess the image to fit your algorithm.
